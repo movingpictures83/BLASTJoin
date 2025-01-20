@@ -1,0 +1,2 @@
+Prefix plugins/BLASTJoin/example/
+Plugin BLASTJoin inputfile parameters.txt outputfile testData_join.txt
